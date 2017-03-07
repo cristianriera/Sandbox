@@ -6,7 +6,7 @@ body{
 section{
   width: 1000px;
   height: 1000px;
-  background-color: #B40431;
+  background-color: #D35400;
 }
 article{
   height: 500px;
@@ -15,8 +15,8 @@ div.box{
   width:auto;
   height: inherit;
   float: left;
-  border : 10px #38610B;
-  background-color: #5882FA;
+  border : 10px solid black;
+  background-color: #F9E79F;
 }
 div.left{
   width: 25%;
@@ -27,6 +27,6 @@ div.right{
 header, footer{
   margin:0;
   width: auto;
-  height: 20%;
-  border: 10px #38610B;
+  height: 23%;
+  border: 10px solid black;
 }
